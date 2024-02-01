@@ -1,2 +1,2 @@
-# Ace1Pool
-aleo pool
+# Ace1Pool.com
+aleo prover
